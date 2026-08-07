@@ -1,5 +1,10 @@
 # 🛍️ RetailMax Business Intelligence Project
 
+## Executive Dashboard
+
+![Executive Dashboard](Screenshot/Executive Dashboard Screenshot.png)
+
+
 ## 📌 Project Overview
 
 RetailMax is an end-to-end Business Intelligence project that demonstrates the complete data analytics lifecycle—from data generation to interactive dashboards.
