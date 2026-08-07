@@ -4,122 +4,148 @@
 
 ![Executive Dashboard](Screenshots/ExecutiveDashboard.png)
 
+---
 
-## 📌 Project Overview
+## 📊 Data Model
 
-RetailMax is an end-to-end Business Intelligence project that demonstrates the complete data analytics lifecycle—from data generation to interactive dashboards.
+![Data Model](Screenshots/DataModel.png)
 
-The project uses Python to generate realistic retail data, MySQL as the relational database, SQL for querying, and Power BI for interactive dashboards and business insights.
+---
+
+# 📌 Project Overview
+
+RetailMax is an end-to-end Business Intelligence project built using **Python, MySQL, SQL, Power BI, DAX, Power Query, Git, and GitHub**.
+
+The project demonstrates the complete analytics workflow from generating retail data to designing an interactive executive dashboard that provides business insights for decision-makers.
 
 ---
 
 # 🚀 Tech Stack
 
-- Python
-- Pandas
-- MySQL
-- SQL
-- Power BI
-- Power Query
-- DAX
-- Git
-- GitHub
+| Technology | Purpose |
+|------------|---------|
+| Python | Generate retail datasets |
+| Pandas | Data generation & manipulation |
+| MySQL | Relational database |
+| SQL | Data querying |
+| Power Query | Data transformation |
+| Power BI | Dashboard development |
+| DAX | Business calculations |
+| Git | Version control |
+| GitHub | Portfolio & collaboration |
 
 ---
 
 # 🏗️ Project Architecture
 
-Python (Data Generation)
-        ↓
+```text
+Python (Dataset Generation)
+        │
+        ▼
 CSV Files
-        ↓
+        │
+        ▼
 MySQL Database
-        ↓
+        │
+        ▼
 Star Schema
-        ↓
+        │
+        ▼
 Power Query
-        ↓
+        │
+        ▼
 Power BI Data Model
-        ↓
+        │
+        ▼
 DAX Measures
-        ↓
+        │
+        ▼
 Interactive Dashboards
+```
 
 ---
 
-# 📊 Dashboards
+# 📊 Executive Dashboard Features
 
-### ✅ Executive Dashboard
-- KPI Cards
-- Revenue Trend
-- Sales by Category
-- Sales by Region
-- Top Products
-- Customer Segmentation
-- Payment Mode Analysis
-- Top Customers
-- Interactive Date & Region Filters
-
-### 🚧 Upcoming Dashboards
-- Sales Dashboard
-- Customer Dashboard
-- Product Dashboard
-- Inventory Dashboard
-- Returns Dashboard
+- 📈 Revenue Trend
+- 💰 Total Revenue KPI
+- 💵 Total Profit KPI
+- 📦 Total Orders KPI
+- 👥 Total Customers KPI
+- 📊 Profit Margin
+- 🛒 Sales by Category
+- 🌍 Sales by Region
+- 🏆 Top 10 Products
+- ⭐ Top 5 Customers
+- 👤 Customer Segment Analysis
+- 💳 Payment Mode Analysis
+- 📅 Interactive Date Filter
+- 🌎 Interactive Region Filter
 
 ---
 
 # 🧠 Skills Demonstrated
 
+- Python Data Generation
 - Data Modeling
 - Star Schema Design
 - SQL Querying
 - MySQL Database Design
-- Python Data Generation
-- Data Cleaning
 - Power Query
 - DAX Measures
-- KPI Design
-- Dashboard Development
+- KPI Development
+- Interactive Dashboard Design
 - Business Intelligence
-- Git Version Control
+- Data Visualization
+- Git & GitHub
 
 ---
 
 # 📁 Project Structure
 
-RetailMax-PowerBI-Project/
+```text
+RetailMax-PowerBI-Project
 │
-├── Dataset/
-├── Database/
-├── Documentation/
-├── PowerBI/
-├── Python/
-├── SQL/
-├── Screenshots/
+├── Dataset
+├── Database
+├── Documentation
+├── PowerBI
+├── Python
+├── SQL
+├── Screenshots
+│   ├── ExecutiveDashboard.png
+│   └── DataModel.png
 └── README.md
+```
 
 ---
 
-# 📈 Business KPIs
+# 🚀 How to Run
 
-- Total Revenue
-- Total Profit
-- Total Orders
-- Total Customers
-- Profit Margin
-- Revenue Trend
-- Sales by Region
-- Customer Segmentation
-- Payment Analysis
+1. Clone this repository.
+2. Import the CSV files into MySQL.
+3. Execute the SQL scripts.
+4. Open `RetailMax_v1.pbix` in Power BI Desktop.
+5. Refresh the data model.
+6. Explore the interactive dashboard using the slicers.
 
 ---
 
-# 🎯 Project Status
+# 📌 Project Status
 
-✅ Executive Dashboard Completed
+## ✅ Completed
 
-🚧 Remaining:
+- Python Dataset Generation
+- MySQL Database
+- Star Schema
+- SQL Queries
+- Power Query
+- DAX Measures
+- Executive Dashboard
+- Git & GitHub Integration
+
+## 🚧 Upcoming
+
 - Sales Dashboard
 - Customer Dashboard
 - Product Dashboard
@@ -130,4 +156,6 @@ RetailMax-PowerBI-Project/
 
 # 👨‍💻 Author
 
-Vadlani Reddy Prasanna Kumar
+**Vadlani Reddy Prasanna Kumar**
+
+Aspiring Data Analyst | Power BI | SQL | Python | MySQL | DAX
