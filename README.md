@@ -1,8 +1,8 @@
 # 🛍️ RetailMax Business Intelligence Project
 
-## Executive Dashboard
+## 📸 Executive Dashboard
 
-![Executive Dashboard](Screenshot/Executive Dashboard Screenshot.png)
+![Executive Dashboard](Screenshots/ExecutiveDashboard.png)
 
 
 ## 📌 Project Overview
