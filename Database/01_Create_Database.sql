@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS RetailMaxDW;
+
+CREATE DATABASE RetailMaxDW;
+
+USE RetailMaxDW;
