@@ -12,6 +12,12 @@
 
 ---
 
+## 👥 Customer Dashboard
+
+![Customer Dashboard](Screenshots/CustomerDashboard.png)
+
+---
+
 ## 📊 Data Model
 
 ![Data Model](Screenshots/DataModel.png)
@@ -149,11 +155,11 @@ RetailMax-PowerBI-Project
 - DAX Measures
 - Executive Dashboard
 - Sales Dashboard
+- Customer Dashboard
 - Git & GitHub Integration
 
 ## 🚧 Upcoming
 
-- Customer Dashboard
 - Product Dashboard
 - Inventory Dashboard
 - Returns Dashboard
