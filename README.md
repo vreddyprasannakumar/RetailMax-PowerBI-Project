@@ -18,6 +18,24 @@
 
 ---
 
+## 🛍️ Product Dashboard
+
+![Product Dashboard](Screenshots/ProductDashboard.png)
+
+---
+
+## 📦 Inventory Dashboard
+
+![Inventory Dashboard](Screenshots/InventoryDashboard.png)
+
+---
+
+## 🔄 Returns Dashboard
+
+![Returns Dashboard](Screenshots/ReturnsDashboard.png)
+
+---
+
 ## 📊 Data Model
 
 ![Data Model](Screenshots/DataModel.png)
@@ -157,9 +175,6 @@ RetailMax-PowerBI-Project
 - Sales Dashboard
 - Customer Dashboard
 - Git & GitHub Integration
-
-## 🚧 Upcoming
-
 - Product Dashboard
 - Inventory Dashboard
 - Returns Dashboard
